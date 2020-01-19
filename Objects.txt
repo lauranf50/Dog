@@ -1,0 +1,15 @@
+Encapsulation
+A: security of the data by hiding the implementation, variables
+D: extra run-time to call the set/get method, the compiler doesnt enforce it 
+
+Inheritance
+A: reuse the functionality, readability of the code
+D: extra run-time for the program to determine the levels of overload classes, classes are coupled
+
+Abstract
+A: organize programs, create functionality that subclasses can implement or override
+D: enforce inheritance
+
+Polymorphism
+A: reuse code, maintainability, extensibility, reduction in complexity
+D: difficult to implement, extra run-time
