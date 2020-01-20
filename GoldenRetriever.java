@@ -17,8 +17,8 @@ public class GoldenRetriever extends Dog
 		furShade = newValue;
 	}
 
-	public void Bark()
+	public String Bark()
 	{
-		System.out.println("woof woof");
+		return "woof woof";
 	}
 }

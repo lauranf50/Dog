@@ -51,9 +51,9 @@ public class Dog
 		gender = newValue;
 	}
 
-	public void Bark()
+	public String Bark()
 	{
-		System.out.println("woof");
+		return "woof";
 	}
 
 	public void setProp(int age1, String name1, String breed1, char gender1)
